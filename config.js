@@ -12,7 +12,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 global.owner = [
 ['525638096831', 'Ary-OFC ', true], 
-['523316968621', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
+['525638096831', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
 ['5521989092076', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true]  
 ]
 
@@ -91,8 +91,8 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Buitre Bot '
-global.author = 'Buitre Bot'
+global.packname = 'Ary Bot '
+global.author = 'Ary Bot'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -130,15 +130,15 @@ global.nnnttt3 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 7 CO
 global.nnnttt4 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 8 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 9 COL
 global.paypal = 'https://www.paypal.me/Ary0307'
-global.asistencia = 'http://Wa.me/523316968621' //Dudas? escríbeme...
+global.asistencia = 'http://Wa.me/525638096831' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'ARY BOT 🌻 : Buitre OFC '
-global.igfg = 'Buitre Bot Lite'
+global.wm = 'ARY BOT 🌻 : Ary OFC '
+global.igfg = 'Ary Bot'
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
