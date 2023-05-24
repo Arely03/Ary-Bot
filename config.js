@@ -23,13 +23,13 @@ global.prems = []
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰  
-//Agrega el Idioma que quieres que tenga BuitreBotLite-MD
-//Add the language you want BuitreBotLite-MD to have
+//Agrega el Idioma que quieres que tenga AryBot-MD
+//Add the language you want AryBot-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de BuitreBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de AryBot, Ejemplo: es | en | pt...
  
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
