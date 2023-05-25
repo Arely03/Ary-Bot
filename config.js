@@ -112,23 +112,23 @@ global.vs = '1.0.1'
 global.vsJB = '3.0'
 
 global.gt = 'Ary Bot '
-global.yt = 'https://youtube.com/@iambuitre'
-global.yt2 = 'https://youtube.com/@iambuitre'
+global.yt = 'https://youtube.com/@ArelyJurithzyPineda '
+global.yt2 = 'https://instagram.com/arely_pinedx?igshid=NTc4MTIwNjQ2YQ=='
 global.ig = 'https://instagram.com/arely_pinedx?igshid=NTc4MTIwNjQ2YQ=='
-global.md = 'https://github.com/Buitreofc/Buitre-BotLite-MD#readme'
-global.fb = 'https://www.facebook.com/profile.php?id=100091780073268'
+global.md = 'https://github.com/Arely03/Ary-Bot'
+global.fb = 'https://www.facebook.com/juguito.dechale.3192'
 
 global.nna = 'https://chat.whatsapp.com/JbZX9QfwefsFeKKzuLRw7Z' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Help
-global.nn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 9 COL
+global.nna2 = 'https://chat.whatsapp.com/KuxKtFhRR7E4ljFBwe69Sx' //Help
+global.nn = 'https://chat.whatsapp.com/JbZX9QfwefsFeKKzuLRw7Z' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/KuxKtFhRR7E4ljFBwe69Sx' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/JbZX9QfwefsFeKKzuLRw7Z' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/JbZX9QfwefsFeKKzuLRw7Z' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/JbZX9QfwefsFeKKzuLRw7Z' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/JbZX9QfwefsFeKKzuLRw7Z' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/JbZX9QfwefsFeKKzuLRw7Z' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/JbZX9QfwefsFeKKzuLRw7Z' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/JbZX9QfwefsFeKKzuLRw7Z' //Grupo 9 COL
 global.paypal = 'https://www.paypal.me/Ary0307'
 global.asistencia = 'http://Wa.me/525638096831' //Dudas? escríbeme...
 
